@@ -26,7 +26,7 @@ git clone https://github.com/MowlandCodes/hash-decryptor.git
 2. Navigate to the project directory:
 
 ```bash
-cd hash-decryptor
+cd hash-decryptor/source/
 ```
 
 ## 🔧 Usage

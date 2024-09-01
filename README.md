@@ -1,7 +1,7 @@
 # 🔓 Python Hash Decryptor 1.0
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/python-3.x-green)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-green?style=for-the-badge)
 
 ## 📜 Description
 

@@ -59,7 +59,7 @@ This tool is for educational purposes only. The author and contributors are not 
 
 ## 👨‍💻 Author
 
-- **Mowland Production**
+- **Mowland Codes**
 - GitHub: [MowlandCodes](https://github.com/MowlandCodes)
 
 ## 📄 License
